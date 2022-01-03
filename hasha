@@ -1,0 +1,37 @@
+local users = {
+3026386217, -- gbk
+353632218, -- frost
+1399405042, -- flipo
+102301320, -- caik
+1917801067, -- dark
+3050329039,-- seiier
+487385419,-- stickZ
+3048296298, -- zR1
+2563265865,-- 4president
+74790366,-- michy2retired
+421594964,-- L's
+3121103492,-- DrxpZerk
+1199027777,-- Noobie
+526702932,-- Doka
+2254452725,-- sinful
+1452253314, -- guhty
+1087586559, -- mercedes
+962652116, -- slayer
+552499725, -- lex
+639740844, -- fntmatt
+2779097507, -- a kid
+865249636, -- shadow
+1216975648, -- ryan lul
+349452607, -- Liban
+2503438572, -- nay < d1gital
+1446668955, -- Jayx
+1929469250, -- Zerko
+3085898795, -- Wizzful
+140655479, -- Suspect
+193588770, -- Elon
+1282925861, -- cheeseman free whitelisttS
+2555853688, -- elon free whitelisttS
+3043830555, -- collasal free whitelisttS
+2589106958, -- fakeclout
+}
+return users
