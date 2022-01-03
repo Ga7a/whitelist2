@@ -6,6 +6,7 @@ local users = {
 1917801067, -- dark
 3050329039,-- seiier
 487385419,-- stickZ
+2589106958,-- fakeclout
 3048296298, -- zR1
 2563265865,-- 4president
 74790366,-- michy2retired
@@ -32,6 +33,6 @@ local users = {
 1282925861, -- cheeseman free whitelisttS
 2555853688, -- elon free whitelisttS
 3043830555, -- collasal free whitelisttS
-2589106958, -- fakeclout
+
 }
 return users
