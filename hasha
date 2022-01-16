@@ -61,7 +61,7 @@ local users = {
 2555853688, -- elon free whitelistt
 3043830555, -- collasal free whitelisttS
 3026218260,-- Faze > perm
-3140835864,-- Tyrone > perm
+0101010101,-- Tyrone > blacklisted
 525795080,-- kerelus > perm
 }
 return users
